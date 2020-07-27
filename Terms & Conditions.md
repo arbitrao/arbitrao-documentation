@@ -77,7 +77,7 @@ accordance with the law.
 We strongly recommend that you read the paragraph below. This paragraph regulates
 methods and restraints of proceedings and disputes that may arise between the company
 and the user. Disagreements, disputes or violations of these terms must be settled in
-accordance with the rules stated on net-ARB.com. 
+accordance with the rules stated on arbitrao.com 
 
 ### Changes to Services and Website
 We reserve the right to temporarily or permanently manage, modify, delete or take any other
